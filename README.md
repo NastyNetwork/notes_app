@@ -1,4 +1,5 @@
 Aplikacja do zarządzania notatkami
+
 Projekt ma na celu stworzenie aplikacji "konsolowej" umożliwiającej użytkownikowi zarządzanie notatkami w sposób prosty, intuicyjny i funkcjonalny. Aplikacja pozwala na tworzenie, edycję, usuwanie oraz sortowanie notatek, a także na ich trwałe zapisywanie i odczytywanie z pliku w formacie JSON. Dzięki podziałowi funkcjonalności na wiele klas, kod jest łatwy w przyszłym rozwijaniu.
 
 
